@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368226906209",
+    "project_id": "zinker-4397f",
+    "storage_bucket": "zinker-4397f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368226906209:android:7094304f6c2e6c2c793a20",
+        "android_client_info": {
+          "package_name": "com.example.zinker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368226906209-bk67nl84d9ibh9c2h0bc52lnluq1rnhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC72KO-lGg-GjSkwtr8hd_DZwRVIkSw9Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368226906209-bk67nl84d9ibh9c2h0bc52lnluq1rnhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
